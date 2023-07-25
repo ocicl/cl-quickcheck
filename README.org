@@ -1,0 +1,10 @@
+* cl-quickcheck
+
+cl-quickcheck - a Common Lisp port of the QuickCheck unit test framework
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mcandre/cl-quickcheck   |
+| commit  | a76e360  |
+| systems | cl-quickcheck |
+|---------+-------------------------------------------|
+
